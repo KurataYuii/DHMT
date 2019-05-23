@@ -1,0 +1,4 @@
+﻿  Lab2_bai4.cpp
+d:\web\tho7mauversion2\lab2_bai4\lab2_bai4.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab2_bai4.vcxproj -> D:\Web\Tho7mauversion2\Debug\Lab2_bai4.exe
+  Lab2_bai4.vcxproj -> D:\Web\Tho7mauversion2\Debug\Lab2_bai4.pdb (Full PDB)

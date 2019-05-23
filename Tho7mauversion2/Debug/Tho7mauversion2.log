@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tho7mauversion2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Tho7mauversion2.cpp
+d:\web\tho7mauversion2\tho7mauversion2\tho7mauversion2.cpp(40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\web\tho7mauversion2\tho7mauversion2\tho7mauversion2.cpp(90): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\web\tho7mauversion2\tho7mauversion2\tho7mauversion2.cpp(91): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\web\tho7mauversion2\tho7mauversion2\tho7mauversion2.cpp(92): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\web\tho7mauversion2\tho7mauversion2\tho7mauversion2.cpp(93): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  Tho7mauversion2.vcxproj -> D:\Web\Tho7mauversion2\Debug\Lab2_bai1.exe
+  Tho7mauversion2.vcxproj -> D:\Web\Tho7mauversion2\Debug\Lab2_bai1.pdb (Full PDB)

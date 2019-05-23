@@ -1,0 +1,14 @@
+﻿  Lab2_bai3.cpp
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(63): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(63): warning C4552: '-': operator has no effect; expected operator with side-effect
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(135): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(136): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(141): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(142): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(150): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\web\tho7mauversion2\lab2_bai3\lab2_bai3.cpp(151): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lab2_bai3.vcxproj -> D:\Web\Tho7mauversion2\Debug\Lab2_bai3.exe
+  Lab2_bai3.vcxproj -> D:\Web\Tho7mauversion2\Debug\Lab2_bai3.pdb (Full PDB)
